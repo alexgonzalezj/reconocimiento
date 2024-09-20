@@ -1,2 +1,6 @@
-0 Persona
-1 Telefono
+0 Papel_Carton
+1 Vidrio
+2 Metal
+3 Envolturas
+4 NoReciclable
+5 Plastico
